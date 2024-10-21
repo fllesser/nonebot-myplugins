@@ -26,7 +26,7 @@ async def _(bot: Bot, event: GroupMessageEvent):
 @scheduler.scheduled_job(
     "cron",
     hour=8,
-    minute=5,
+    minute=10,
 )
 async def _():
     # msg = None
