@@ -1,0 +1,16 @@
+utils/
+services/
+configs/
+models/
+anderson/
+oswald/
+old/
+myplugins/
+local_bot/
+
+nonebot_plugin_todo
+nonebot_plugin_tsc
+
+test.py
+testutils.py
+gorga.otf
